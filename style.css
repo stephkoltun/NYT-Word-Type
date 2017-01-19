@@ -1,0 +1,96 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+	
+	padding: 70px 90px;
+	margin: 0 auto;
+
+	
+}
+
+section {
+	width: 200px;
+	float: left;
+	margin: 0 20px;
+}
+
+p {
+	font-family: 'Inconsolata', monospace;
+	line-height: 16px;
+	font-size: 8px;
+}
+
+div.menu {
+	width: 100vw;
+}
+
+
+h1 {
+	font-family: 'Montserrat', sans-serif;
+	margin: 0 20px 0 0;
+	padding: 5px;
+	font-size: 0.8em;
+	outline: #000000 solid 3px;
+
+	display: inline;
+}
+
+h2 {
+	font-family: 'Inconsolata', monospace;
+	text-align: center;
+	margin: 20px 0 0 0;
+}
+
+
+div.article {
+	box-shadow: 0 2px 0 0;
+	padding: 8px 0 8px 0;
+}
+
+span {
+	margin: 0 1px;
+	padding: 2px;
+}
+
+.noun-prop {
+  background: #5C2B5B;
+  color: #5C2B5B;
+}
+
+.noun {
+  background: #6C5B7B;
+  color: #6C5B7B;
+}
+
+.pronoun {
+  background: #AC3B7B;
+  color: #AC3B7B;
+}
+
+.verb {
+  background: #355C7D;
+  color: #355C7D;
+}
+
+.adverb {
+  background: #F67280;
+  color: #F67280;
+}
+
+.adjective {
+  background: #F8B195;
+  color: #F8B195;
+}
+
+.other {
+  background: #ececec;
+  color: #ececec;
+}
+
+.resetWord {
+  color: #000000;
+  background: #FFFFFF;
+}

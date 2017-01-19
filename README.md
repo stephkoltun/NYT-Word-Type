@@ -1,0 +1,5 @@
+Inspired by Cris’ website nutrition label sketch from last week as well as McSweeney’s Guide to Ambiguous Grammar, I used a combination of P5.js and the |RiTa computational literature library| to create a visual tool for identifying parts-of-speech types (nouns, verbs, adjectives and adverbs). 
+
+The (partial) text content is pulled from today’s front-and-center article on the New York Time’s website. Knowing that next week we’d be looking at APIs, I hope to continue building on this sketch and pull the article content automatically from the New York Times and use it to look across various reporting desks. Is the the Arts & Culture desk more descriptive, using more adjectives and adverbs? Or what are the most common proper nouns used in World News?
+
+When hovering over any of the four buttons in the corners, the corresponding words are highlighted in the text. The contrast between the faded words and selected words provide a rhythm and instant visual indictor for the most common type of word or how this changes through an article. 
